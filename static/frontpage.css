@@ -1,5 +1,104 @@
+@import url(/static/sailors.css);
+
 html, body {
+	font-family: 'sailorsregular';
+	font-size: 1.8em;
 	margin: 0px;
 	padding: 0px;
 }
 
+#head_holder {
+	position: relative;
+	top: 50px;
+	width: 386px;
+	height: 680px;
+	background-image: url(/static/head/base.png);
+	margin: 0px auto;
+}
+
+#head_holder>#pil {
+	position: absolute;
+	font-size: 1.4em;
+	top: 10px;
+	right: -250px;
+
+	transition: all 100ms ease-in;
+	color: #000;
+}
+
+#head_holder:hover>#pil {
+	color: #fff;
+}
+
+#head_holder>#top {
+	position: absolute;
+	top: 6px;
+	left: 59px;
+	width: 275px;
+	height: 116px;
+}
+
+#head_holder>#top>div.movable_part {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 275px;
+	height: 116px;
+	background-image: url(/static/head/top.png);
+	-webkit-transform-origin: 275px 116px;
+	transition: all 100ms ease-in;
+}
+
+#head_holder>#top:hover>div.movable_part {
+	-webkit-transform: rotate(43deg);
+}
+
+#head_holder>#top>div.content {
+	margin: 20px auto;
+	width: 100%;
+	text-align: center;
+}
+
+#head_holder>#top:hover>div.content {
+	display: block;
+}
+
+#head_holder>#top>div.content img {
+	margin: 8px;
+}
+
+
+
+#head_holder>#jaw {
+	position: absolute;
+	top: 277px;
+	left: 109px;
+	width: 192px;
+	height: 103px;
+}
+
+#head_holder>#jaw>div.movable_part {
+	position: absolute;
+	background-image: url(/static/head/jaw.png);
+	top: 0px;
+	left: 0px;
+	width: 192px;
+	height: 103px;
+	transition: all 100ms ease-in;
+}
+
+#head_holder>#jaw:hover>div.movable_part {
+	top: 80px;
+}
+
+#head_holder>#jaw>div.content {
+	margin: 30px auto;
+	width: 100%;
+	text-align: center;
+	transition: margin 100ms ease-in;
+}
+
+#head_holder>#jaw:hover>div.content {
+	margin: 45px auto;
+	z-index: 99;
+}

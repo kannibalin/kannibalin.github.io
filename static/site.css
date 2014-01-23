@@ -1,0 +1,139 @@
+@import url(/static/sailors.css);
+
+html, body {
+	font-family: 'sailorsregular';
+	font-size: 1.5em;
+	margin: 0px;
+	padding: 0px;
+}
+
+a { color: #000; }
+
+#content {
+	margin: 0px auto 80px auto;
+	width: 400px;
+	text-align: center;
+}
+
+p {
+	line-height: 1em;
+}
+
+ul, ul li {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+body#contact #content {
+	width: 500px;
+}
+
+body#contact p {
+	margin: 0px;
+	padding: 0px;
+}
+
+body#contact ul {
+	margin-top: 80px;
+}
+
+body#contact li {
+	display: inline-block;
+	width: 160px;
+	height: 120px;
+	
+}
+
+body#contact li a {
+	position: relative;
+	width: 160px;
+	height: 120px;
+	display: block;
+}
+
+body#contact li a>div {
+	position: absolute;
+	top: 40%;
+	left: 0px;
+	width: 100%;
+	visibility: hidden;
+}
+
+body#contact li img {
+	margin: 30px 50px;
+	max-width: 40px;
+	max-height: 40px;
+}
+
+body#contact li a:hover>img {
+	visibility: hidden;
+}
+
+body#contact li a:hover>div {
+	visibility: visible;
+}
+
+body#contact #address_box {
+	
+}
+
+body#contact #address_box {
+	
+
+}
+
+body#portfolio {
+	
+}
+
+body#portfolio #content {
+	width: 100%;
+	max-width: 1000px;
+}
+
+body#portfolio ul {
+	margin-top: 50px;
+}
+
+body#portfolio li {
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	margin: 2px;
+}
+
+body#portfolio a.splash {
+	background-repeat: no-repeat;
+	background: #ddd;
+	background-size: cover;
+	background-position: center;
+	width: 300px;
+	height: 300px;
+	display: block;
+}
+
+
+body#portfolio_post #content {
+	width: 620px;
+}
+
+body#portfolio_post img {
+	width: 100%;
+}
+
+
+body#portfolio_post>#content>#extra {
+	margin-top: 80px;
+}
+
+body#portfolio_post>#content>#extra img {
+	margin-top: 40px;
+}
+
+#backbutton {
+	position: fixed;
+	top: 60px;
+	left: 60px;
+	z-index: 999;
+}
