@@ -93,6 +93,21 @@ body#contact #address_box {
 
 }
 
+body#about h1 { margin-bottom: 0px; }
+
+body#about>#content {
+	width: 700px;
+}
+
+body#about>#content p {
+	text-align: left;
+	width: 500px;
+}
+
+body#about>#content img {
+	width: 700px;
+}
+
 body#portfolio {
 	
 }
