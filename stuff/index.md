@@ -1,5 +1,5 @@
 ---
 title: Stuff
 layout: stuff
-images: [ ]
+images: [ /static/stuff/pistol.jpg ]
 ---
