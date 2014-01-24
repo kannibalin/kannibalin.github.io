@@ -1,15 +1,22 @@
+---
+---
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>kannibalin - contact</title>
+	<title>kannibalin - stuff</title>
 	<link rel="stylesheet" href="/static/site.css">
 </head>
-<body id="contact">
+<body id="stuff">
 	<a href="/" id="backbutton"><img src="/static/back.png" alt=""></a>
 	<div id="content">
-		<h1>CONTACT</h1>
+		<h1>{{ page.title | upcase }} </h1>
 		{{ content }}
+		
+		{% for image in page.images %}
+			<img src="{{ image }}">
+		{% endfor %}
+		
 	</div>
 
 </body>
