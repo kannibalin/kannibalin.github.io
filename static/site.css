@@ -101,7 +101,7 @@ body#about>#content {
 
 body#about>#content p {
 	text-align: left;
-	width: 500px;
+	margin: 40px 0px;
 }
 
 body#about>#content img {
