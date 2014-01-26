@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Nittoiplus
+title: Nittioplus
 splash: /static/portfolio/nittioplus.png
 images: []
 ---
