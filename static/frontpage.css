@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, #head_holder { font-family: 'Oswald', sans-serif; }
 	transition: all 100ms ease-in;
 }
 
-#head_holder>#top:hover>div.movable_part {
+#head_holder>#top:hover>div.movable_part, #head_holder>#top.open>div.movable_part {
 	-webkit-transform: rotate(43deg);
 }
 
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, #head_holder { font-family: 'Oswald', sans-serif; }
 	text-align: center;
 }
 
-#head_holder>#top:hover>div.content {
+#head_holder>#top:hover>div.content, #head_holder>#top.open>div.content {
 	display: block;
 }
 
@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, #head_holder { font-family: 'Oswald', sans-serif; }
 	transition: all 100ms ease-in;
 }
 
-#head_holder>#jaw:hover>div.movable_part {
+#head_holder>#jaw:hover>div.movable_part, #head_holder>#jaw.open>div.movable_part {
 	top: 120px;
 }
 
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, #head_holder { font-family: 'Oswald', sans-serif; }
 	transition: margin 100ms ease-in;
 }
 
-#head_holder>#jaw:hover>div.content {
+#head_holder>#jaw:hover>div.content, #head_holder>#jaw.open>div.content {
 	margin: 45px auto;
 	z-index: 99;
 }

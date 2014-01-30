@@ -4,6 +4,31 @@
 	<meta charset="UTF-8">
 	<title>kannibalin</title>
 	<link rel="stylesheet" href="static/frontpage.css">
+	<script type="text/javascript">
+	
+		function toggle_top () {
+			
+			var d = document.getElementById('top');
+			if (d.className == "open") {
+				d.className = "";
+			} else {
+				d.className = "open";
+			}
+	
+		}
+	
+		function toggle_jaw () {
+			
+			var d = document.getElementById('jaw');
+			if (d.className == "open") {
+				d.className = "";
+			} else {
+				d.className = "open";
+			}
+			
+		}
+
+	</script>
 </head>
 <body>
 	
@@ -14,14 +39,14 @@
 			<a href="/about/">ABOUT</a><br>
 			<a href="/contact/">CONTACT</a>
 		</div>
-		<div class="movable_part"></div>
+		<div class="movable_part" onclick="toggle_top();"></div>
 	</div>
 	<div id="jaw">
 		<div class="content">
 			<a href="/portfolio/">PORTFOLIO</a><br>
 			<a href="/stuff/">STUFF</a><br>
 		</div>
-		<div class="movable_part"></div>
+		<div class="movable_part" onclick="toggle_jaw();"></div>
 	</div>
 </div>
 
