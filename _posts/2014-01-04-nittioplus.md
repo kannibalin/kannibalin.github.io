@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Ninety Plus
-splash: /static/portfolio/nittioplus.png
+splash: /static/portfolio/nittioplus.jpg
 images: [ /static/portfolio/nittioposter.jpg, /static/portfolio/nittioclose.jpg, /static/portfolio/nittiokorv.png, /static/portfolio/nittiomugg.png ]
 ---
 
