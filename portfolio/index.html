@@ -6,6 +6,8 @@
 	<meta charset="UTF-8">
 	<title>kannibalin - portfolio</title>
 	<link rel="stylesheet" href="/static/site.css">
+
+
 </head>
 <body id="portfolio">
 <a href="/" id="backbutton"><img src="/static/back.png" alt=""></a>
@@ -14,7 +16,7 @@
 	<ul id="portfolio_list">
 	{% for post in site.posts %}
 		{% if post.hide != true %}
-		<li><a href="{{ post.url }}" class="splash" style="background-image: url({{ post.splash }});" title="{{ post.title }}"></a></li>
+		<li><a href="{{ post.url }}" class="splash" style="background-image: url({{ post.splashbw }});" title="{{ post.title }}"><div class="altimage" style="background-image: url({{ post.splash }});"></div></a></li>
 		{% endif %}
 	{% endfor %}
 	</ul>

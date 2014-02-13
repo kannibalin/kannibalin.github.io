@@ -128,7 +128,8 @@ body#portfolio li {
 	margin: 2px;
 }
 
-body#portfolio a.splash {
+
+body#portfolio a.splash, body#portfolio a.splash>div.altimage {
 	background-repeat: no-repeat;
 	background: #ddd;
 	background-size: cover;
@@ -136,6 +137,15 @@ body#portfolio a.splash {
 	width: 300px;
 	height: 300px;
 	display: block;
+}
+
+body#portfolio a.splash>div.altimage {
+	display: none;
+}
+
+body#portfolio a:hover.splash>div.altimage {
+	display: block;
+
 }
 
 body#portfolio_post h1 { font-size: 5.0em; }

@@ -2,6 +2,7 @@
 layout: portfolio
 title: No More Woof
 splash: /static/portfolio/nmw.png
+splashbw: /static/portfolio/nmw_bw.png
 ---
 
 Ever wonder what your dog is thinking? During my internship at [Studio Total](http://en.wikipedia.org/wiki/Studio_Total)  I helped out with the project No More Woof which is a headset for dogs that pick up the brainwaves from the dog and reads it, calculate it and translate it to human language in easy sentenses like "I'm hungry" for example. I helped out with the design of the headset, the organising of the photoshoots and most of all I was their number one dog-model-agency.
