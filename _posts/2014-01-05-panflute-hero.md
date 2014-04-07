@@ -1,9 +1,9 @@
 ---
 layout: portfolio
 title: WOW HACK 
-splash: /static/portfolio/panflutehero.png
-splashbw: /static/portfolio/panflutehero_bw.png
-images: []
+splash: /static/portfolio/wowhack.jpg
+splashbw: /static/portfolio/wowhack_bw.jpg
+images: [ /static/portfolio/panflutehero.png ]
 ---
 During WOWHack 2013 our team built the game Panflute Hero. I was the Art Director/Designer and I worked with my friends aka 3D programmers and coders from heaven who actually built a real flute with bamboo and connected it to a Raspberry Pi.
 
