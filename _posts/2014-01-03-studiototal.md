@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Studio Total
+title: STUDIO TOTAL
 splash: /static/portfolio/st.jpg
 splashbw: /static/portfolio/st_bw.jpg
 ---
