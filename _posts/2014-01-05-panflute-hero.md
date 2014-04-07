@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: WOW HACK 13
+title: WOW HACK 
 splash: /static/portfolio/panflutehero.png
 splashbw: /static/portfolio/panflutehero_bw.png
 images: []
