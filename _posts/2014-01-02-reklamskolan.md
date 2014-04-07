@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: The Cure
+title: Reklamskolan
 splash: /static/portfolio/thecure.png
 splashbw: /static/portfolio/thecure_bw.png
 images: [ /static/portfolio/thecureposter2.jpg, /static/portfolio/thecureposter1.jpg, /static/portfolio/thegame_ttcm.png, /static/portfolio/thegame_ttcm2.png ]
