@@ -16,7 +16,7 @@
 	<ul id="portfolio_list">
 	{% for post in site.posts %}
 		{% if post.hide != true %}
-		<li><a href="{{ post.url }}" class="splash" style="background-image: url({{ post.splashbw }});" title="{{ post.title }}"><div class="altimage" style="background-image: url({{ post.splash }});"></div></a></li>
+		<li><a href="{{ post.url }}" class="splash" style="background-image: url({{ post.splashbw }});"><div class="altimage" style="background-image: url({{ post.splash }});"><div class="past_type{% if post.white == true %} white{% endif %}">{{ post.type | upcase }}</div></div></a></li>
 		{% endif %}
 	{% endfor %}
 	</ul>

@@ -1,6 +1,8 @@
 ---
 layout: portfolio
 title: WOW HACK 
+type: Game design
+white: true
 splash: /static/portfolio/wowhack.jpg
 splashbw: /static/portfolio/wowhack_bw.jpg
 images: [ /static/portfolio/panflutehero.png ]

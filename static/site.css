@@ -37,6 +37,7 @@ ul, ul li {
 
 body#contact #content {
 	width: 500px;
+
 }
 
 body#contact p {
@@ -60,6 +61,7 @@ body#contact li a {
 	width: 160px;
 	height: 120px;
 	display: block;
+	font-family: 'Oswald', sans-serif;
 }
 
 body#contact li a>div {
@@ -141,11 +143,25 @@ body#portfolio a.splash, body#portfolio a.splash>div.altimage {
 
 body#portfolio a.splash>div.altimage {
 	display: none;
+	position: relative;
 }
 
 body#portfolio a:hover.splash>div.altimage {
 	display: block;
+}
 
+div.white {
+	color: #fff;
+}
+
+div.past_type {
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+	font-size: 3em;
+	line-height: 1em;
+	vertical-align: bottom;
+	font-family: 'Oswald', sans-serif;
 }
 
 /*body#portfolio_post h1 { font-size: 5.0em; }*/

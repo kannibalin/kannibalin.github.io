@@ -1,6 +1,8 @@
 ---
 layout: portfolio
 title: STUDIO TOTAL
+type: Internship
+white: true
 splash: /static/portfolio/st.jpg
 splashbw: /static/portfolio/st_bw.jpg
 ---
