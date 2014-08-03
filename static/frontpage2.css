@@ -6,6 +6,7 @@ html, body {
 	font-size: 1.1em;
 	margin: 0px;
 	padding: 0px;
+	background: #c7c5be;
 }
 
 a { color: #000; text-decoration: none; }
@@ -29,7 +30,7 @@ a { color: #000; text-decoration: none; }
 }
 
 #menu a:hover {
-	color: #ff00ff; /*rgba(255, 128, 128, 1.0);*/
+	color: #00FFFF; /*rgba(255, 128, 128, 1.0);*/
 }
 
 #logo {

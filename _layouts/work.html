@@ -19,7 +19,7 @@
 			{{ content }}
 		</div>
 
-		<img class="splash" src="{{ page.splash }}">
+		<a href="{{ page.splash }}"><img class="splash" src="{{ page.splash }}"></a>
 		<div id="extra">
 			{% for image in page.images %}
 				<a href="{{ image }}"><img class="slideshow" src="{{ image }}"></a>

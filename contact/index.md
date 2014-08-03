@@ -2,7 +2,9 @@
 layout: contact
 ---
 +46(0)70 53 63 055<br>
-<a href="mailto:mother.superior@heyitsenricopallazzo.com" title="email">mother.superior@heyitsenricopallazzo.com</a>
+<a href="mailto:mother.superior@heyitsenricopallazzo.com" title="email">mother.superior@heyitsenricopallazzo.com</a><br>
+<br>
+<a href="http://instagram.com/mmothersuperior" title="instagram"><img src="/static/portfolio/insta_logg.png"></a>
 <!-- <ul>
 	<li><a href="http://www.kannibalin.se" title="Home"><div>HOME</div><img src="/static/contact/home.png" alt="Home"></a></li>
 	<li><a href="https://www.facebook.com/malin.sundelin.16" title="Facebook"><div>FACEBOOK</div><img src="/static/contact/facebook.png" alt="Facebook"></a></li>

@@ -3,18 +3,20 @@
 
 html, body {
 	font-family: 'bariol_regularregular', sans-serif;;
-	font-size: 1.0em;
+	font-size: 1.2em;
 	margin: 0px;
 	padding: 0px;
 	text-align: center;
+	line-height: 1.6em;
 }
 body {
 	background: #c7c5be;
 }
 
 body#contact { background: #00FFFF; }
-body#about { background: #FF00FF; }
-body#about a:hover { color: #fff; }
+body { background: #00FFFF; }
+/*body#about { background: #FF00FF; }*/
+/*body#about a:hover { color: #fff; }*/
 
 .bigger { font-size: 1.3em; }
 
@@ -39,7 +41,7 @@ a { color: #000; text-decoration: none; }
 }
 
 #menu a:hover {
-	color: #ff00ff; /*rgba(255, 128, 128, 1.0);*/
+	color: #00FFFF; /*rgba(255, 128, 128, 1.0);*/
 }
 
 a {
@@ -47,7 +49,7 @@ a {
 }
 
 a:hover {
-	color: #ff00ff; /*rgba(255, 128, 128, 1.0);*/
+	color: #00FFFF; /*rgba(255, 128, 128, 1.0);*/
 }
 
 #hello {
@@ -61,6 +63,8 @@ a:hover {
 	padding-top: 170px;
 	margin: 0px auto 80px auto;
 	vertical-align: bottom;
+
+	font-size: 0.6em;
 }
 
 #homebutton {
@@ -80,7 +84,9 @@ a:hover {
 #description {
 	width: 600px;
 	margin: 0px auto 80px auto;
+	padding-left: 40px;
 	text-align: left;
+	/*border: solid 1px #000;*/
 }
 
 #work ul, #past ul {
@@ -111,4 +117,13 @@ a:hover {
 	margin: 0px;
 	padding: 0px;
 	float: left;
+}
+
+#contact {
+	line-height: 2.0em;
+}
+
+#contact img {
+	width: auto;
+	height: auto;
 }
