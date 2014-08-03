@@ -1,6 +1,7 @@
 ---
-layout: portfolio
+layout: past
 title: 90 +
+pub_date: 2014-01-02
 splash: /static/portfolio/nittioplus.jpg
 images: [ /static/portfolio/nittioposter.jpg, /static/portfolio/nittioclose.jpg, /static/portfolio/nittiokorv.png, /static/portfolio/nittiomugg.png ] 
 hide: true

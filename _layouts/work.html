@@ -1,0 +1,32 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Mother Superior - Work</title>
+	<link rel="stylesheet" href="/static/pages.css">
+</head>
+<body id="work">
+	<div id="content_wrap">
+		<a href="/" id="homebutton"></a>
+	<!-- <a href="/work/" id="backbutton"><img src="/static/back.png" alt=""></a> -->
+	<!-- <div id="content"> -->
+		<div id="hello">HELLO {{ page.type | upcase }}</div>
+		{% if page.hide != true %}
+		<!-- <h1>{{ page.title | upcase }} </h1> -->
+		<div id="description">
+			{{ content }}
+		</div>
+
+		<img class="splash" src="{{ page.splash }}">
+		<div id="extra">
+			{% for image in page.images %}
+				<a href="{{ image }}"><img class="slideshow" src="{{ image }}"></a>
+			{% endfor %}
+		</div>
+		{% endif %}
+	</div>
+
+</body>
+</html>

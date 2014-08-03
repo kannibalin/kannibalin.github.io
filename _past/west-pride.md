@@ -1,6 +1,7 @@
 ---
-layout: portfolio
+layout: past
 title: WEST PRIDE
+pub_date: 2014-01-06
 type: Print
 splash: /static/portfolio/thecure.png
 splashbw: /static/portfolio/thecure_bw.png

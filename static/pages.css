@@ -1,0 +1,114 @@
+@import url(/static/bariol/stylesheet.css);
+
+
+html, body {
+	font-family: 'bariol_regularregular', sans-serif;;
+	font-size: 1.0em;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+body {
+	background: #c7c5be;
+}
+
+body#contact { background: #00FFFF; }
+body#about { background: #FF00FF; }
+body#about a:hover { color: #fff; }
+
+.bigger { font-size: 1.3em; }
+
+a { color: #000; text-decoration: none; }
+
+#content_wrap {
+	width: 100%;
+	height: 100%;
+}
+
+#menu {
+	position: absolute;
+	top: 40px;
+	right: 40px;
+}
+
+#menu a {
+	font-family: 'bariol_boldbold';
+	font-size: 1.2em;
+	margin-left: 20px;
+	transition: all 100ms linear;
+}
+
+#menu a:hover {
+	color: #ff00ff; /*rgba(255, 128, 128, 1.0);*/
+}
+
+a {
+	transition: all 100ms linear;
+}
+
+a:hover {
+	color: #ff00ff; /*rgba(255, 128, 128, 1.0);*/
+}
+
+#hello {
+	background-image: url(/static/tringli.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+
+	font-family: 'bariol_boldbold';
+
+	width: 200px;
+	padding-top: 170px;
+	margin: 0px auto 80px auto;
+	vertical-align: bottom;
+}
+
+#homebutton {
+	background-image: url(/static/home.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+
+	display: block;
+	width: 100px;
+	height: 98px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+
+#description {
+	width: 600px;
+	margin: 0px auto 80px auto;
+	text-align: left;
+}
+
+#work ul, #past ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#work ul li, #past ul li {
+	width: 500px;
+	display: inline-block;
+	margin: 0px 10px 20px 10px;
+	/*float: left;*/
+}
+
+#work ul li a, #past ul li a {
+	height: 500px;
+	display: block;
+
+	background-repeat: no-repeat;
+	background: #ddd;
+	background-size: cover;
+	background-position: center;
+}
+
+#about img, #work img, #past img {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}

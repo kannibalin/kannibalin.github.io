@@ -4,18 +4,18 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>kannibalin - past</title>
+	<title>Mother Superior - Work</title>
 	<link rel="stylesheet" href="/static/pages.css">
 
 
 </head>
-<body id="past">
+<body id="work">
 <!-- <a href="/" id="backbutton"><img src="/static/back.png" alt=""></a> -->
 <div id="content_wrap">
 	<a href="/" id="homebutton"></a>
-	<div id="hello">HELLO PAST</div>
-	<ul id="past_list">
-	{% for post in site.past | sort 'date' %}
+	<div id="hello">HELLO WORK</div>
+	<ul id="work_list">
+	{% for post in site.work | sort 'date' %}
 		{% if post.hide != true %}
 		<li><a href="{{ post.url }}" class="splash" style="background-image: url({{ post.splash }});"></a></li>
 		{% endif %}

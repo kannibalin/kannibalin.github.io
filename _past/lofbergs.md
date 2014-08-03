@@ -1,6 +1,7 @@
 ---
-layout: portfolio
+layout: past
 title: Bean Bug Jungle Panic
+pub_date: 2014-01-01
 splash: /static/portfolio/beanbug.png
 splashbw: /static/portfolio/beanbug_bw.png
 images: [  ]

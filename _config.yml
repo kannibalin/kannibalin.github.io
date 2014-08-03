@@ -1,3 +1,8 @@
-markdown: rdiscount
-permalink: /past/:title.html
 
+collections:
+  past:
+    output: true
+    permalink: /past/:path/
+  work:
+    output: true
+    permalink: /work/:path/

@@ -1,6 +1,7 @@
 ---
-layout: portfolio
+layout: past
 title: STUDIO TOTAL
+pub_date: 2014-01-05
 type: Internship
 white: true
 splash: /static/portfolio/st.jpg

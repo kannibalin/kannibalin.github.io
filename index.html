@@ -2,51 +2,25 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>kannibalin</title>
-	<link rel="stylesheet" href="static/frontpage.css">
-	<script type="text/javascript">
-	
-		function toggle_top () {
-			
-			var d = document.getElementById('top');
-			if (d.className == "open") {
-				d.className = "";
-			} else {
-				d.className = "open";
-			}
-	
-		}
-	
-		function toggle_jaw () {
-			
-			var d = document.getElementById('jaw');
-			if (d.className == "open") {
-				d.className = "";
-			} else {
-				d.className = "open";
-			}
-			
-		}
-
-	</script>
+	<title>Mother Superior</title>
+	<link rel="stylesheet" href="static/frontpage2.css">
 </head>
 <body>
 	
-<div id="head_holder">
-	<!--<div id="pil">CLICK ON ME</div>-->
-	<div id="top">
-		<div class="content">
-			<a href="/about/">ABOUT</a><br>
-			<a href="/contact/">CONTACT</a>
-		</div>
-		<div class="movable_part" onclick="toggle_top();"></div>
+<div id="content_wrap">
+
+	<div style="position: fixed; left: -2%; top: -2%; z-index: -99; width: 105%; height: 105%">
+		<iframe webkit-playsinline frameborder="0" height="100%" width="100%" src="https://youtube.com/embed/jyk0uFXODOk?autoplay=1&hd=1&wmode=transparent&playsinline=1&controls=0&showinfo=0&autohide=1&loop=1&playlist=jyk0uFXODOk&modestbranding=1">
+		</iframe>
 	</div>
-	<div id="jaw">
-		<div class="content">
-			<a href="/past/">PAST</a><br>
-			<a href="/stuff/">STUFF</a><br>
-		</div>
-		<div class="movable_part" onclick="toggle_jaw();"></div>
+
+	<div id="logo"></div>
+	<div id="menu">
+		<a href="/contact/">CONTACT</a>
+		<a href="/about/">ABOUT</a>
+		<a href="/past/">PAST</a>
+		<a href="/work/">WORK</a>
+		<a href="/mind/">MIND</a>
 	</div>
 </div>
 

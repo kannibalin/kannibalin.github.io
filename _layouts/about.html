@@ -2,15 +2,18 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>kannibalin - about</title>
-	<link rel="stylesheet" href="/static/site.css">
+	<title>Mother Superior - About</title>
+	<link rel="stylesheet" href="/static/pages.css">
 </head>
 <body id="about">
-	<a href="/" id="backbutton"><img src="/static/back.png" alt=""></a>
-	<div id="content">
-		<h1>ABOUT</h1>
+	<!-- <a href="/" id="backbutton"><img src="/static/back.png" alt=""></a> -->
+	<div id="content_wrap">
+		<a href="/" id="homebutton"></a>
+		<div id="hello">HELLO ABOUT</div>
+		<div id="description">
+			{{ content }}
+		</div>
 		<img src="/static/malin.jpg" alt="">
-		{{ content }}
 	</div>
 
 </body>

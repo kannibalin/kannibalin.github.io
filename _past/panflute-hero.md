@@ -1,6 +1,7 @@
 ---
-layout: portfolio
+layout: past
 title: WOW HACK 
+pub_date: 2014-01-04
 type: Game design
 white: true
 splash: /static/portfolio/wowhack.jpg
