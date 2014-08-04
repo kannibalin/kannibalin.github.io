@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Print
+title: Illustration
 pub_date: 2014-01-04
 type: Print
 white: true
