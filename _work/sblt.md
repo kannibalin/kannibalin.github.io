@@ -21,7 +21,7 @@ Bonus burgers; collect the pink, turqoise or golden burgers for extra bonus poin
 
 
 Developer: Sven Andersson & Jhonny Goransson <br>
-Art director: Ingrid Arnsand Jonsson & Malin Sundelin <br>
+Art Director: Ingrid Arnsand Jonsson & Malin Sundelin <br>
 Copywriter: Jimmy Johansson <br>
 Music: Axel Bauer <br>
 Creator of the clothing collection: Sara-Lovise Ewertson
