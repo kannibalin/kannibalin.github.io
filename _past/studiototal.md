@@ -8,4 +8,4 @@ splash: /static/portfolio/st.jpg
 splashbw: /static/portfolio/st_bw.jpg
 ---
 
-My internship at the agency [Studio Total](http://en.wikipedia.org/wiki/Studio_Total) taught me a mix of strange, stupid and smart ways of communication. Rest in peace.
+My internship at the agency [Studio Total](http://en.wikipedia.org/wiki/Studio_Total) taught me a mix of strange, stupid and smart ways of communication. 
