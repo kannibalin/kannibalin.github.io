@@ -14,13 +14,13 @@ Snow Beast Laser Tornado is an endless runner game where the player must run fro
 
 Bonus burgers; collect the pink, turqoise or golden burgers for extra bonus points.The charachter of Snow Beast Laser Tornado starts with one of seven characters and her name is JumpUpOnMeBlackCream. The 6 other charachters will be released and avalible to play later this year.
 
-You tap with one finger to jump and avoid death.
+You tap with one finger to jump and avoid death. <br>
 
 
-*BDG = Beatrice Dahlén Gaming
+*BDG = Beatrice Dahlén Gaming <br>
 
-Developer: Sven Andersson & Jhonny Goransson
-Art director: Ingrid Arnsand Jonsson & Malin Sundelin
-Copywriter: Jimmy Johansson
-Music: Axel Bauer
+Developer: Sven Andersson & Jhonny Goransson <br>
+Art director: Ingrid Arnsand Jonsson & Malin Sundelin <br>
+Copywriter: Jimmy Johansson <br>
+Music: Axel Bauer <br>
 Creator of the clothing collection: Sara-Lovise Ewertson
