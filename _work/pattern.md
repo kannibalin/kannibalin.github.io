@@ -1,14 +1,14 @@
 ---
 layout: work
-title: Patterns
+title: Pattern
 pub_date: 2014-01-04
-type: Ident
+type: Pattern
 white: true
 splash: /static/portfolio/valentavla1.png
 splashbw: /static/portfolio/valentavla1.png
 images: [ /static/portfolio/valentalvla2.png ]
 ---
-fill in
+
 
 
 
