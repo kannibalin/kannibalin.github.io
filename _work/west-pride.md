@@ -8,7 +8,7 @@ splashbw: /static/portfolio/thecure_poster2.png
 images: [ /static/portfolio/thecure_candy.jpg, /static/portfolio/recept_app.png ]
 hide: false
 ---
-On a schoolproject we created a campaign for the West Pride festival in Gothenburg. Our idea was to use the festival as a cure and also borrow graphic elements from the medicin world. There are still today some people that thinks HBTQ-people need to be cured. We believe that is crazy and if you think that way YOU need to be cured! Maybe by a festival? 
+On a school project we created a campaign for the West Pride festival in Gothenburg. Our idea was to use the festival as a cure and also borrow graphic elements from the medicin world. There are still today some people that thinks HBTQ-people need to be cured. We believe that is crazy and if you think that way YOU need to be cured! Maybe by a festival? 
 
 
 “West Pride is an over-the-counter drug that cures bigotry, Putin Disease and other bitter plagues. It can also be used to treat intolerance and symptooms of confusion. While West Pride is effective against serious problems, it also relieves everyday worries, such as boredom and irritation; it lightens up a bad day and it works as an antidepressant. Like all medicines, West Pride can cause side effects, particularly when you first start taking it.
