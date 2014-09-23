@@ -8,4 +8,3 @@ splash: /static/portfolio/pallazzo.png
 splashbw: /static/portfolio/pallazzo.png
 ---
 
-...
