@@ -9,7 +9,7 @@ splashbw: /static/portfolio/bdglogo.png
 images: [ ]
 hide: false
 ---
-fill in content
+
 
 
 
