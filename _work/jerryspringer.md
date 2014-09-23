@@ -7,7 +7,7 @@ white: true
 splash: /static/portfolio/jerrylogo.png
 splashbw: /static/portfolio/jerrylogo.png
 images: [ /static/portfolio/jerryscreen.png ]
-hide: false
+hide: true
 ---
 
 ...
