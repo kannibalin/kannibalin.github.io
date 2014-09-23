@@ -68,14 +68,14 @@ a:hover {
 }
 
 #homebutton {
-	background-image: url(/static/huset.png);
+	background-image: url(/static/menu_back.png);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: contain;
 
 	display: block;
-	width: 40px;
-	height: 40px;
+	width: 60px;
+	height: 60px;
 	position: absolute;
 	top: 20px;
 	left: 30px;
@@ -96,14 +96,14 @@ a:hover {
 }
 
 #work ul li, #past ul li {
-	width: 500px;
+	width: 650px;
 	display: inline-block;
 	margin: 0px 10px 20px 10px;
 	/*float: left;*/
 }
 
 #work ul li a, #past ul li a {
-	height: 500px;
+	height: 650px;
 	display: block;
 
 	background-repeat: no-repeat;
