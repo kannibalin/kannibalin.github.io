@@ -5,7 +5,6 @@ pub_date: 2014-01-06
 type: Print
 splash: /static/portfolio/thecure_poster2.png
 splashbw: /static/portfolio/thecure_poster2.png
-images: [ /static/portfolio/thecure_candy.jpg, /static/portfolio/recept_app.png ]
 hide: false
 ---
 On a school project we created a campaign for the West Pride festival in Gothenburg. Our idea was to use the festival as a cure and also borrow graphic elements from the medicin world. There are still today some people that thinks HBTQ-people need to be cured. We believe that is crazy and if you think that way YOU need to be cured! Maybe by a festival? 
