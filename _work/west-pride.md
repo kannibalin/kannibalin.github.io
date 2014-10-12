@@ -16,7 +16,6 @@ On a school project we created a campaign for the West Pride festival in Gothenb
 
  Copywriter: [Andreas Kjäll](mailto:andreaskjall@gmail.com) <br>
  Art Director: Malin Sundelin <br>
- Photo: Malva Staaf
- Event: Linda Pettersson
- <br>
+ Photo: Malva Staaf <br>
+ Event: Linda Pettersson <br>
  Event: Bea Andersson
