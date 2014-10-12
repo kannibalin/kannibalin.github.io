@@ -10,11 +10,11 @@ html, body {
 	line-height: 1.6em;
 }
 body {
-	background: #c7c5be;
+	background: #faafc2;
 }
 
-body#contact { background: #00FFFF; }
-body { background: #00FFFF; }
+body#contact { background: #faafc2; }
+body { background: #faafc2; }
 /*body#about { background: #FF00FF; }*/
 /*body#about a:hover { color: #fff; }*/
 
@@ -41,7 +41,7 @@ a { color: #000; text-decoration: none; }
 }
 
 #menu a:hover {
-	color: #00FFFF; /*rgba(255, 128, 128, 1.0);*/
+	color: #fff; /*rgba(255, 128, 128, 1.0);*/
 }
 
 a {
@@ -49,12 +49,13 @@ a {
 }
 
 a:hover {
-	color: #00FFFF; /*rgba(255, 128, 128, 1.0);*/
+	color: #fff; /*rgba(255, 128, 128, 1.0);*/
 }
 
 #hello {
 	background-image: url(/static/tringli.png);
 	background-repeat: no-repeat;
+	background-size: 90%;
 	background-position: center top;
 
 	font-family: 'bariol_boldbold';
