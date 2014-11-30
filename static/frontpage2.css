@@ -26,8 +26,8 @@ a { color: #000; text-decoration: none; }
 
 #menu {
 	position: absolute;
-	top: 40px;
-	right: 40px;
+	top: 20px;
+	right: 30px;
 }
 
 #menu a {
