@@ -97,9 +97,10 @@ a:hover {
 }
 
 #work ul li, #past ul li {
-	width: 650px;
-	display: inline-block;
-	margin: 0px 10px 20px 10px;
+	/* width: 650px; */
+	width: 100%;
+	/*display: inline-block;
+	margin: 0px 10px 20px 10px;*/
 	/*float: left;*/
 }
 
