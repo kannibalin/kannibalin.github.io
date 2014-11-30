@@ -96,7 +96,13 @@ a:hover {
 	padding: 0px;
 }
 
-#work ul li, #past ul li {
+#work ul li {
+	width: 650px;
+	display: inline-block;
+	margin: 0px 10px 20px 10px;
+}
+
+#past ul li {
 	/* width: 650px; */
 	width: 100%;
 	/*display: inline-block;
