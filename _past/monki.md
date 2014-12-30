@@ -8,4 +8,4 @@ splash: /static/portfolio/monki_big.png
 splashbw: /static/portfolio/monki_big.png
 ---
 
-During my internship at [Monki](http://www.monki.com/) I learned a lot from the great Monkiworld! How to work with campaigns in a global way for example. And how to make the campaigns work in real life, not just on paper. 
+I worked as an intern (AD trainee) @ [Monki](http://www.monki.com/)´s headoffice the autumn 2014. It was a lot of fun and a great experience to be a part of such a big company that still got that wierd awesome twist! 
