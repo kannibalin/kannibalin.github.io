@@ -44,6 +44,9 @@ a { color: #000; text-decoration: none; }
 	#menu a {
 		display: block;
 	}
+	#menu img {
+		height: 32px;
+	}
 }
 
 #menu a:hover {
