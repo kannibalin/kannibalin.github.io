@@ -10,11 +10,15 @@ html, body {
 	line-height: 1.6em;
 }
 body {
-	background: #faafc2;
+	/*background: #faafc2;*/
+	background-image: url("/static/bgstill.gif");
+	background-size: cover;
+	background-position: center center; 
+	background-repeat: repeat-y;
 }
 
-body#contact { background: #faafc2; }
-body { background: #faafc2; }
+/*body#contact { background: #faafc2; }*/
+/*body { background: #faafc2; }*/
 /*body#about { background: #FF00FF; }*/
 /*body#about a:hover { color: #fff; }*/
 
