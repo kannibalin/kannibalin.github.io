@@ -48,6 +48,9 @@ a { color: #000; text-decoration: none; }
 	#menu img {
 		height: 32px;
 	}
+	#menu {
+		bottom: 120px;
+	}
 }
 
 #menu a:hover {
