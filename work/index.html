@@ -15,11 +15,16 @@
 	<a href="/" id="homebutton"></a>
 	<div id="hello">HELLO WORK</div>
 	<ul id="work_list">
+		<li><a class="splash" style="background-image: url(static/COMINSOON.png);"></a></li>
+	</ul>
+	{% comment %}
+	<ul id="work_list">
 	{% for post in site.work | sort 'date' %}
 		{% if post.hide != true %}
 		<li><a href="{{ post.url }}" class="splash" style="background-image: url({{ post.splash }});"></a></li>
 		{% endif %}
 	{% endfor %}
+	{% endcomment %}
 	</ul>
 </div>
 
