@@ -2,7 +2,7 @@
 layout: past
 title: STUDIO TOTAL
 pub_date: 2014-01-05
-type: STUD I O TOTAL
+type: S T U D I O   T O T A L
 white: true
 splash: /static/portfolio/st.jpg
 splashbw: /static/portfolio/st_bw.jpg
