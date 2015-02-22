@@ -37,7 +37,7 @@ a { color: #000; text-decoration: none; }
 	display: block;
 	font-family: 'bariol_boldbold';
 	font-size: 0.9em;
-	margin: 10px 30px 0px 30px;
+	margin: 10px 40px 0px 40px;
 	transition: all 100ms linear;
 }
 
@@ -56,6 +56,16 @@ a { color: #000; text-decoration: none; }
 	#menu {
 		bottom: 120px;
 	}
+}
+
+#menu_image_hi {
+	margin-left: 14px;
+}
+#menu_image_work {
+	margin-left: 3px;
+}
+#menu_image_past {
+	margin-left: 14px;
 }
 
 #menu a:hover {
