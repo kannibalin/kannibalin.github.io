@@ -42,7 +42,7 @@ a { color: #000; text-decoration: none; }
 }
 
 #menu img {
-	height: 112px;
+	height: 150px;
 }
 
 @media only screen and (max-device-width : 480px) {
@@ -59,13 +59,13 @@ a { color: #000; text-decoration: none; }
 }
 
 #menu_image_hi {
-	margin-left: 14px;
+	margin-left: 20px;
 }
 #menu_image_work {
-	margin-left: 3px;
+	margin-left: 6px;
 }
 #menu_image_past {
-	margin-left: 14px;
+	margin-left: 20px;
 }
 
 #menu a:hover {
