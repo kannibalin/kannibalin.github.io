@@ -65,11 +65,11 @@ a:hover {
 	font-family: 'bariol_boldbold';
 
 	width: 200px;
-	padding-top: 170px;
+	padding-top: 140px;
 	margin: 0px auto 80px auto;
 	vertical-align: bottom;
 
-	font-size: 0.7em;
+	font-size: 0.6em;
 }
 
 @media only screen and (max-device-width : 480px) {
