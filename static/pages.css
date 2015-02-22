@@ -10,10 +10,10 @@ html, body {
 	line-height: 1.6em;
 }
 body {
-	/*background: #faafc2;*/
-	background-image: url("/static/bgstill.gif");
+	background: #f8c3bb;
+	/*background-image: url("/static/bgstill.gif");*/
 	background-size: cover;
-	background-position: center center; 
+	background-position: center center;
 	background-repeat: repeat-y;
 }
 
@@ -57,7 +57,7 @@ a:hover {
 }
 
 #hello {
-	background-image: url(/static/tringli.png);
+	background-image: url(/static/tringli2.png);
 	background-repeat: no-repeat;
 	background-size: 90%;
 	background-position: center top;
@@ -69,11 +69,19 @@ a:hover {
 	margin: 0px auto 80px auto;
 	vertical-align: bottom;
 
-	font-size: 0.6em;
+	font-size: 0.7em;
+}
+
+@media only screen and (max-device-width : 480px) {
+
+	#hello {
+		font-size: 1.2em;
+	}
+
 }
 
 #homebutton {
-	background-image: url(/static/menu_back.png);
+	background-image: url(/static/menu_back2.png);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: contain;

@@ -11,10 +11,10 @@ html, body {
 }
 
 body {
-	/*background: #faafc2;*/
-	background-image: url("/static/bganim.gif");
+	background: #f8c3bb;
+	/*background-image: url("/static/bganim.gif");*/
 	background-size: cover;
-	background-position: center center; 
+	background-position: center center;
 	background-repeat: no-repeat;
 }
 a { color: #000; text-decoration: none; }
@@ -28,25 +28,30 @@ a { color: #000; text-decoration: none; }
 	position: absolute;
 	bottom: 60px;
 	width: 100%;
-	text-align: center;
+	/*text-align: center;*/
 	/*top: 20px;*/
 	/*right: 30px;*/
 }
 
 #menu a {
+	display: block;
 	font-family: 'bariol_boldbold';
 	font-size: 0.9em;
-	margin: 40px 40px 0px 40px;
+	margin: 10px 40px 0px 10px;
 	transition: all 100ms linear;
 }
 
-@media only screen and (min-device-width : 320px)  and (max-device-width : 480px) {
+#menu img {
+	height: 96px;
+}
+
+@media only screen and (max-device-width : 480px) {
 	#menu a {
 		display: block;
-		margin: 80px 40px 0px 40px;
+		margin: 40px 40px 0px 40px;
 	}
 	#menu img {
-		height: 32px;
+		height: 64px;
 	}
 	#menu {
 		bottom: 120px;
