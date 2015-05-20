@@ -7,6 +7,7 @@ white: true
 splash: /static/portfolio/bdglogo.png
 splashbw: /static/portfolio/bdglogo.png
 images: [ ]
+hide: false
 ---
 
 
