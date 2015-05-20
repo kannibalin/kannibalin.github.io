@@ -4,7 +4,7 @@ title: WOW HACK
 pub_date: 2014-01-04
 type: Game design
 white: true
-splash: /static/portfolio/wowhack.jpg
+splash: /static/portfolio/panflutehero.png
 splashbw: /static/portfolio/wowhack_bw.jpg
 images: [ /static/portfolio/panflutehero.png ]
 ---
