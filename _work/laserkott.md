@@ -6,6 +6,6 @@ type: Illustration
 white: true
 splash: /static/portfolio/laserkott3.png
 splashbw: /static/portfolio/laserkott3.png
-images: [ /static/portfolio/laserkott2.png, /static/portfolio/laserkott1.png ]
+images: [/static/portfolio/laserkott1.png ]
 ---
 
