@@ -2,7 +2,7 @@
 layout: contact
 ---
 +46(0)70 53 63 055<br>
-<a href="mailto:mother.superior@heyitsenricopallazzo.com" title="email">mother.superior@heyitsenricopallazzo.com</a><br>
+<a href="mailto:hi@mmothersuperior.com" title="email">hi@mmothersuperior.com</a><br>
 <br>
 <a href="http://instagram.com/mmothersuperior" title="instagram"><img src="/static/portfolio/insta_logg.png"></a>
 <!-- <ul>
