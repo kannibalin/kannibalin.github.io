@@ -4,7 +4,7 @@ title: Illustration
 pub_date: 2014-01-04
 type: Illustration
 white: true
-splash: "https://36.media.tumblr.com/32a6d32641abb5cdd70b1708688380ff/tumblr_noo87m48XT1snf70wo3_540.png"
-splashbw: "https://36.media.tumblr.com/32a6d32641abb5cdd70b1708688380ff/tumblr_noo87m48XT1snf70wo3_540.png"
+splash: "https://40.media.tumblr.com/243e9a5b9ca30bcea83073ed2ac2d1cb/tumblr_nooc14Gtt51snf70wo1_1280.png"
+splashbw: "https://40.media.tumblr.com/243e9a5b9ca30bcea83073ed2ac2d1cb/tumblr_nooc14Gtt51snf70wo1_1280.png"
 images: [  ]
 ---
