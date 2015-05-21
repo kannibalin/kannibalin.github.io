@@ -15,7 +15,7 @@ Snow beast laser tornado is a 2014 platforming video game developed and publishe
 
 
 Developer: Sven Andersson & Jhonny Goransson <br>
-Art Director:Malin Sundelin & Ingrid Arnsand Jonsson <br>
+Art Director: Malin Sundelin & Ingrid Arnsand Jonsson <br>
 Copywriter: Jimmy Johansson <br>
 Music: Axel Bauer <br>
 Sound: Lars Andersson <br>
