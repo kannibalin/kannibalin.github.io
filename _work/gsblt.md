@@ -4,7 +4,7 @@ title: Game Design
 pub_date: 2014-01-04
 type: Game Design
 white: true
-splash: "https://41.media.tumblr.com/17975cfc246064d50ba0423732661f94/tumblr_noocwgMq5v1snf70wo1_1280.png"
+splash: "hhttps://40.media.tumblr.com/4f01549be677408e4a419072e7aac0af/tumblr_nooepzv7Sp1snf70wo1_1280.png"
 splashbw: /static/portfolio/sblt_ipad_snow.jpg
 images: [ /static/portfolio/sblt_ipad_snow.jpg, "https://36.media.tumblr.com/7d44e0f4cde2f269eae240c41aad64ef/tumblr_noocsvr3t91snf70wo2_1280.png"]
 ---
