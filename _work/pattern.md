@@ -7,6 +7,7 @@ white: true
 splash: /static/portfolio/gurkapattern.png
 splashbw: /static/portfolio/gurkapattern.png
 images: [ ]
+hide: true
 ---
 
 
