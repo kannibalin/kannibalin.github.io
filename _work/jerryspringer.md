@@ -9,4 +9,3 @@ splashbw: "https://36.media.tumblr.com/ddbbbbe601e6bfd2911adcde0b8f8852/tumblr_n
 images: [ /static/portfolio/jerryscreen.png ]
 ---
 
-...
