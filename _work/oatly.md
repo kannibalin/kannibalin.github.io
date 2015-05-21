@@ -8,4 +8,4 @@ splash: "https://36.media.tumblr.com/235bd4cf8136a81902c1275afbfd6ae0/tumblr_noo
 splashbw: 
 images: ["  "]
 ---
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/2tmaRIrssMg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2tmaRIrssMg" frameborder="0" allowfullscreen></iframe>
