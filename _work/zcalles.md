@@ -6,5 +6,6 @@ type: Illustration
 white: true
 splash: https://36.media.tumblr.com/628b5f3e502c15917c49f9baed2cb366/tumblr_npo4xxnvx61snf70wo4_1280.jpg
 splashbw: 
-images:  
+images: 
+hide: true
 ---
