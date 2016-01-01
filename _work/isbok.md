@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Graphic Design
+title: Idea Graphic Design
 pub_date: 2014-01-04
 type: Graphic Design
 white: true
