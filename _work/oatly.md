@@ -8,5 +8,4 @@ splash: "https://36.media.tumblr.com/235bd4cf8136a81902c1275afbfd6ae0/tumblr_noo
 splashbw: 
 images: ["  "]
 hide: true
----
 
