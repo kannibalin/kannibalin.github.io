@@ -8,4 +8,4 @@ splash: "https://40.media.tumblr.com/81700c36c8ea1b1f4472cc8a999462ce/tumblr_o1v
 splashbw: 
 images: [  ]
 ---
-When working as an Art Director trainee at Monki I put together the sales and visual guidelines from Monki's graphic profile.
+At Monki I worked with putting the sales and visual guidelines together from Monki's graphic profile.
