@@ -7,5 +7,6 @@ white: true
 splash: "https://49.media.tumblr.com/e77336f7d7731e535ec986086982e1df/tumblr_o1vojmBTd61s771xno1_1280.gif"
 splashbw:
 images: [ ]
+hide: true
 
 ---
