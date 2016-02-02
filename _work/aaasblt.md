@@ -8,7 +8,7 @@ splash: "https://40.media.tumblr.com/4f01549be677408e4a419072e7aac0af/tumblr_noo
 splashbw: /static/portfolio/sblt_ipad_snow.jpg
 images: [ /static/portfolio/sblt_ipad_snow.jpg, ]
 ---
-Snow Beast Laser Tornado is a 2014 platforming video game developed and published by BDG* for iPhone iOS. The game is based on Sara-Lovise Ewertsons clothing collection Snow Beast Laser Tornado’s seven outfits. The design of the game is inspired by nostalgic 90's games combined with some fresh elements. 
+Snow Beast Laser Tornado is a 2014 platforming video game developed and published by BDG* for iPhone iOS. The game is based on Sara-Lovise Ewertsons clothing collection Snow Beast Laser Tornado’s seven outfits.
 
 
 *BDG = Beatrice Dahlén Gaming <br>
