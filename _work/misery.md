@@ -8,4 +8,4 @@ splash: "https://40.media.tumblr.com/767a78bc874500b8d923df110d96a2bf/tumblr_o1x
 splashbw:
 images: [ ]
 ---
-Work made together with Studio Total.
+Work for Misery Vodka made together with Studio Total in 2013.
