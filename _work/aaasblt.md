@@ -17,6 +17,4 @@ Snow Beast Laser Tornado is a 2014 platforming video game developed and publishe
 Developer: Sven Andersson & Jhonny Goransson <br>
 Art Director: Malin Sundelin & Ingrid Arnsand Jonsson <br>
 Copywriter: Jimmy Johansson <br>
-Music: Axel Bauer <br>
-Sound: Lars Andersson <br>
 Creator of the clothing collection: Sara-Lovise Ewertson
