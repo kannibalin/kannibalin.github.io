@@ -6,6 +6,7 @@ type: FABLE
 white: true
 splash: http://mmothersuperior.tumblr.com/post/161484929665/from-fable
 splashbw:
----
 hide: true
+---
+
 
