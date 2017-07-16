@@ -1,7 +1,7 @@
 ---
 layout: contact
 ---
-+46(0)70 723 04 98<br>
++46(0)70 536 30 55<br>
 <a href="mailto:hi@mmothersuperior.com" title="email">hi@mmothersuperior.com</a><br>
 <br>
 <a href="http://instagram.com/mmothersuperior" title="instagram"><img width="100px" src="http://68.media.tumblr.com/9433df4f35a07da77595a06b2b08e25b/tumblr_ot6jryGGXH1s771xno1_250.png"></a>
