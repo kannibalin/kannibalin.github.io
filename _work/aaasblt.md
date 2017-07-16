@@ -1,8 +1,8 @@
 ---
 layout: work
-title: Game Design
+title: ART DIRECTION
 pub_date: 2014-01-04
-type: Game Design
+type: ART DIRECTION
 white: true
 splash: "https://40.media.tumblr.com/4f01549be677408e4a419072e7aac0af/tumblr_nooepzv7Sp1snf70wo1_1280.png"
 splashbw: /static/portfolio/sblt_ipad_snow.jpg
