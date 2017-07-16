@@ -1,9 +1,9 @@
 ---
 layout: work
-title: Photo
+title: GRAPHIC DESIGN
 pub_date: 2014-01-04
-type: Photo
+type: GRAPHIC DESIGN
 white: true
-splash: "http://40.media.tumblr.com/37d5ff15a36e7baf107f4777745dab61/tumblr_no7fjtnCC21s771xno1_1280.jpg"
+splash: "https://68.media.tumblr.com/349d588e637d1179b3ce6dafa64a41e4/tumblr_ot6toeYmcv1s771xno1_1280.png"
 images: [  ]
 ---
