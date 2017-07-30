@@ -8,4 +8,4 @@ splash: "http://68.media.tumblr.com/3c67634adffc9d1bbec8c64241c91b20/tumblr_otwu
 splashbw:
 images: [ ]
 ---
-A project called "The food we eat" from 2016.
+A project called "The food we eat" from 2016. Idea and photo: Malin Sundelin & Petter Axelsson.
