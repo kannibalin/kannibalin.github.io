@@ -1,8 +1,8 @@
 ---
 layout: work
-title: ART DIRECTION
+title: GRAPHIC DESIGN
 pub_date: 2017-07-30
-type: ART DIRECTION
+type: GRAPHIC DESIGN
 white: true
 splash: "http://68.media.tumblr.com/6e23d18512abe94f097f75b7daa239d8/tumblr_otwugkYGHP1s771xno2_1280.png"
 splashbw: 
