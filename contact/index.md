@@ -2,9 +2,9 @@
 layout: contact
 ---
 +46(0)70 536 30 55<br>
-<a href="mailto:hi@mmothersuperior.com" title="email">hi@mmothersuperior.com</a><br>
+<a href="mailto:malinsundelin42@gmail.com" title="email">malinsundelin42@gmail.com</a><br>
 <br>
-<a href="http://instagram.com/mmothersuperior" title="instagram"><img width="100px" src="http://68.media.tumblr.com/9433df4f35a07da77595a06b2b08e25b/tumblr_ot6jryGGXH1s771xno1_250.png"></a>
+<a href="http://instagram.com/sund________________" title="instagram"><img width="100px" src="http://68.media.tumblr.com/9433df4f35a07da77595a06b2b08e25b/tumblr_ot6jryGGXH1s771xno1_250.png"></a>
 <!-- <ul>
 	<li><a href="http://www.kannibalin.se" title="Home"><div>HOME</div><img src="/static/contact/home.png" alt="Home"></a></li>
 	<li><a href="https://www.facebook.com/malin.sundelin.16" title="Facebook"><div>FACEBOOK</div><img src="/static/contact/facebook.png" alt="Facebook"></a></li>
